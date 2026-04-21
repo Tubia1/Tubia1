@@ -22,8 +22,15 @@
 ## 🛠️ Tecnologías y Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,cs,mysql,git,github,vscode,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,cs,react,nodejs,git,github,vscode,figma" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
+
+
 
 <!-- Agregá o quitá después -->
 
@@ -42,9 +49,6 @@ Sistema de gestión de horarios.
 - C#  
 - Base de datos SQL  
 - Trabajo colaborativo
-
-### 📌 Próximo Proyecto
-Tu próximo gran proyecto acá 😎
 
 ---
 
