@@ -1,7 +1,7 @@
 <!-- README de perfil GitHub -->
 <!-- Crear repo con tu mismo nombre de usuario y pegar esto en README.md -->
 
-<h1 align="center">Hola 👋, Soy Tobías Röhr</h1>
+<h1 align="center">Hola 👋, Soy Tobías </h1>
 <h3 align="center">Estudiante de Informática | Futuro Developer | Apasionado por la Tecnología</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 - 🎓 Estudiante de informática  
 - 💻 Interesado en desarrollo web y aplicaciones  
@@ -69,11 +69,4 @@ Sistema de gestión de horarios.
 - 🌐 Portfolio: futuro portfolio  
 
 ---
-
-## 🧠 Frase
-
-> "El éxito no llega solo, se programa."
-
----
-
 <p align="center">Gracias por visitar mi perfil 👨‍💻</p>
