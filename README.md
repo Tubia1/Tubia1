@@ -64,9 +64,9 @@ Sistema de gestión de horarios.
 
 ## 📫 Contacto
 
-- 📧 Email: tuemail@gmail.com  
+- 📧 Email:tobiasrohrtoto@gmail.com
 - 💼 LinkedIn: poné tu link  
-- 🌐 Portfolio: futuro portfolio  
+
 
 ---
 <p align="center">Gracias por visitar mi perfil 👨‍💻</p>
