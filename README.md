@@ -59,7 +59,7 @@ Sistema de gestión de horarios.
 ## 📫 Contacto
 
 - 📧 Email: **tobiasrohrtoto@gmail.com**
-- 💼 LinkedIn: *(agregá tu link)*
+- 💼 LinkedIn:
 
 ---
 
