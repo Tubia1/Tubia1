@@ -42,15 +42,22 @@ Me gusta construir proyectos reales mientras aprendo nuevas tecnologías.
 
 ---
 
-## 📚 Actualmente aprendiendo
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tubia1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tubia1&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+<br><br>
 
-```txt
-React
-Node.js
-C#
-SQL Server
-PostgreSQL
-Git & GitHub
-UI/UX Design
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tubia1&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Tubia1&theme=tokyonight&hide_border=true"/> </div>
+
+<div align="center"> <a href="mailto:tobiasrohrtoto@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+<a href="https://github.com/Tubia1"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+
+
+
+
