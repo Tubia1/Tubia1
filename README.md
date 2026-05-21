@@ -1,46 +1,54 @@
-<h1 align="center">Tobias 👨‍💻</h1>
+me hice un perfil de github
+<!-- README de perfil GitHub -->
+
+<h1 align="center">Hola 👋, Soy Videito Rhor</h1>
+<h3 align="center"> Estudiante de Informática |  Futuro Developer |  Apasionado por la Tecnología</h3>
 
 <p align="center">
-  Full Stack Developer en formación • Estudiante de Informática
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollando+proyectos+reales;C%23+%7C+React+%7C+Node.js+%7C+SQL;Siempre+aprendiendo+nuevas+tecnologías;Apasionado+por+el+mundo+IT" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+en+proceso;Aprendiendo+C%23,+SQL,+React,+Node.js;Siempre+mejorando&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante de informática enfocado en seguir creciendo como desarrollador.
-
-Actualmente estoy aprendiendo y creando proyectos relacionados con:
-
-- Desarrollo web
-- Sistemas de gestión
-- Bases de datos
-- UI/UX
-- Aplicaciones modernas
-- Ideas SaaS
-
-Me gusta construir proyectos reales mientras aprendo nuevas tecnologías.
+- 🎓 Estudiante de informática  
+- 💻 Interesado en desarrollo web y aplicaciones  
+- 📚 Actualmente aprendiendo: **C#, SQL Server, HTML, CSS, React, Node.js, GitHub**  
+- 🧠 Siempre buscando mejorar y aprender nuevas tecnologías  
+- ⚡ Motivado por crear proyectos reales e innovadores  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,cs,react,nodejs,git,github,vscode,figma" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cs,git,github,vscode,figma,postgres" />
-
-<br><br>
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+</p>
 
 ---
+
+## 📂 Proyectos Destacados
+
+### 🚗 SmartLot
+Sistema/app para estacionamientos inteligentes.  
+🔹 Diseño UI/UX en Figma  
+🔹 Idea de negocio real  
+🔹 Proyecto en desarrollo  
+
+### ⏰ StartTime
+Sistema de gestión de horarios.  
+🔹 Programado en C#  
+🔹 Base de datos SQL  
+🔹 Trabajo colaborativo  
+
+---
+
+## 📊 Estadísticas GitHub
 
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tubia1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tubia1&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -52,12 +60,16 @@ Me gusta construir proyectos reales mientras aprendo nuevas tecnologías.
 
 <img src="https://streak-stats.demolab.com?user=Tubia1&theme=tokyonight&hide_border=true"/> </div>
 
-<div align="center"> <a href="mailto:tobiasrohrtoto@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+---
 
-<br><br>
+## 📫 Contacto
 
-<a href="https://github.com/Tubia1"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+- 📧 Email: **tobiasrohrtoto@gmail.com**
+- 💼 LinkedIn:
 
+---
 
-
-
+<p align="center">
+  Gracias por visitar mi perfil 👨‍💻
+</p>
+tomate todo el timepo que necesties y mejoralo y dejalo PERFECTO
