@@ -72,4 +72,4 @@ Sistema de gestión de horarios.
 <p align="center">
   Gracias por visitar mi perfil 👨‍💻
 </p>
-tomate todo el timepo que necesties y mejoralo y dejalo PERFECTO
+
